@@ -3,7 +3,7 @@ package tarea_2_4;
 import interfaces.MessageService;
 import services.MessageServiceImp;
 
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
 		//1 crear una instancia de un objeto.
